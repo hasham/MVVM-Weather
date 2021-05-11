@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVVM Weather</string>
+    <string name="description">Description</string>
+    <string name="windSpeed">Wind Speed</string>
+    <string name="sunset">Sunset</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="search">Search By City Name</string>
+</resources>
